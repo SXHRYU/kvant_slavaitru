@@ -25,5 +25,5 @@
 ## Контакты
 
 **Спасибо за уделённое время! Если возникнут вопросы, мои контакты:**
-telegram: @SXRu1
-e-mail: slavaitru@gmail.com
+- telegram: @SXRu1
+- e-mail: slavaitru@gmail.com

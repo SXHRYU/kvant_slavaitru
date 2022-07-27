@@ -3,7 +3,7 @@
 ## Установка
 
 - Перейдите в папку, в которую хотите скачать файлы.
-- Введите в командную строку (PowerShell, bash, zsh) следующее::
+- Введите в командную строку (PowerShell, bash, zsh) следующее:
 `git clone https://github.com/SXHRYU/Tetrika_slavaitru.git`
 - Установите [Python](https://www.python.org/downloads/).
 - Установите зависимости, введя в командную строку:

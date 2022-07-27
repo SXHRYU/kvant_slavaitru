@@ -13,8 +13,8 @@
 ## Команды
 
 После установки зависимостей, необходимо в командной строке прописать следующее:
-- `python manage.py makemigrations`
-- `python manage.py migrate`
+- `python manage.py makemigrations operations`
+- `python manage.py migrate operations`
 
 Чтобы сразу вызвать метод **choose()** на случайно сгенерированные операции запустите файл `launch.py`
 Этот файл запустит несколько операций в следующем порядке:
